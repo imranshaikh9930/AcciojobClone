@@ -11,6 +11,7 @@
     flex-direction: column;
     height: auto;
     width: 100%;
+    margin: auto;
   }
 
   .left-section > img {
